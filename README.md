@@ -1,4 +1,4 @@
-# inititors
+# initiators
 
 
-https://pnmsafi.github.io/inititors/Initiator.html
+https://pnmsafi.github.io/initiators/Initiator.html
