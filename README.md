@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # git-folder
 
-https://pnmsafi.github.io/git-folder/index.html
+https://pnmsafi.github.io/inititors/index.html
 =======
 # inititors
 
