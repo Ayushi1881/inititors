@@ -5,10 +5,13 @@ body {
     font-weight: 300;
     margin: 0;
 }
-
+html{
+    font-size: .9rem;
+}
 .container {
     max-width: 500px;
     margin: 0 auto;
+    padding: 0 2em;
 }
 
 h1,
@@ -74,6 +77,9 @@ a:focus {
     font-size: 16px;
     margin-top: 5px;
 } 
+img{
+    max-width: 100%;
+}
 
 header,
 section {
@@ -105,3 +111,18 @@ section {
     background: #252525;
     color: #fff;
 }
+
+@media (min-width: 600px) {
+    html {
+        font-size: 1.3125rem;
+        
+    }
+}
+/* 
+@media (min-width: 750px) {
+    .splitter {
+        display: flex;
+        align-items: center;
+    }
+    
+} */
