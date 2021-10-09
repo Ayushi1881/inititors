@@ -1,0 +1,21 @@
+.box1{
+    font-size: 50px;
+    background-color: aquamarine;
+    color: brown;
+    padding: 50px 30px 80px;
+    margin: 70px; 
+    border: solid brown 30px;
+    border-color: rgb(104, 96, 92);
+    height: 100px;
+    width: 200px;
+}
+.box2{
+     color: aquamarine;
+     background-color: brown;
+     padding: 50px;
+    margin: 50px;
+    border-radius: 20px; 
+    width: 120px;
+    font-size: 50px;
+
+}
