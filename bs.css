@@ -1,3 +1,8 @@
+body{
+    display: flex;
+    flex-direction: column;
+    
+}
 .box1{
     font-size: 50px;
     background-color: aquamarine;
@@ -18,4 +23,30 @@
     width: 120px;
     font-size: 50px;
 
+}
+
+header{
+    font-size: xx-large;
+    text-align: center;
+    padding: 20px;
+    color: darkslateblue;
+    background-color: rgb(233, 74, 159);
+}
+.new{
+    font-size: large;
+    font-style: oblique;
+    border: dodgerblue;
+    color: forestgreen;
+    background-color: gold;
+    padding: 50px;
+    margin: 100px;
+}
+h3{
+    color: rgb(22, 15, 8);
+}
+td,th{
+    padding: 20px;
+    color: slateblue;
+    background-color: springgreen;
+    font-size: 20px;
 }
