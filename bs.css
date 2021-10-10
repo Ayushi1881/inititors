@@ -39,7 +39,7 @@ header{
     color: forestgreen;
     background-color: gold;
     padding: 50px;
-    margin: 100px;
+    /* margin: 100px; */
 }
 h3{
     color: rgb(22, 15, 8);
