@@ -25,3 +25,5 @@ https://pnmsafi.github.io/inititors/tourguide.html
 
 https://pnmsafi.github.io/inititors/box..html
 
+https://pnmsafi.github.io/inititors/flex.html
+
