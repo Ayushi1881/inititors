@@ -101,7 +101,7 @@ body {
 }
 
 .card .picture {
-  background-image: url('http://culture.affinitymagazine.us/wp-content/uploads/2018/09/UNICEF-OT7.jpg');
+  /* background-image: url('http://culture.affinitymagazine.us/wp-content/uploads/2018/09/UNICEF-OT7.jpg'); */
   background-position: 50%;
   background-size: cover;
   height: 700px;
