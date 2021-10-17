@@ -15,7 +15,10 @@ https://pnmsafi.github.io/inititors/index.html
 
 https://pnmsafi.github.io/inititors/tourguide.html
 
+# week4
 
+
+https://pnmsafi.github.io/inititors/sm.html
 
 
 
